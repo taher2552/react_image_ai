@@ -45,14 +45,6 @@ const CreatePost = () => {
         handleChange={handleChange}
     />
     <FormFields
-        labelName="your name"
-        type="text"
-        name="name"
-        placeholder="John Doe"
-        value={form.name}
-        handleChange={handleChange}
-    />
-    <FormFields
         labelName="prompt"
         type="text"
         name="prompt"
@@ -63,6 +55,8 @@ const CreatePost = () => {
         handleSurpriseMe={handleSurpriseMe}
     />
  </div>
+
+ 
 </form>
 
     </section>

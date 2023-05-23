@@ -20,7 +20,7 @@ const Home = () => {
   return (
 <section className='max-w-7xl mx-auto'>
 <div>
-    <h1 className='font-extrabold text-[#222328] text-[32px]'>The Community Showcase</h1>
+    <h1 className='font-extrabold text-[#222328] text-[32px]'>The AI Magic</h1>
     <p className='mt-2 max-w[500px]  text-[#666e75] text-[18px]'>Lets dive into a Collection of Creative and Visually Stunning Images</p>
 </div>
 
